@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "title": "The Godfather",
+      "caption": "An offer you can't refuse.",
+      "body": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "director": "Francis Ford Coppola",
+      "rating": 5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "id": 1
+    },
+    {
+      "title": "Parasite",
+      "caption": "Act like you own the place.",
+      "body": "All unemployed, Ki-taek’s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "director": "Bong Joon Ho",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-230-0-345-crop.jpg?k=8c2b63ecb6",
+      "rating": 5,
+      "id": 2
+    },
+    {
+      "title": "The Lawrence Of Arabia",
+      "caption": "A MIGHTY MOTION PICTURE OF ACTION AND ADVENTURE!",
+      "body": "The story of British officer T.E. Lawrence’s mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+      "director": "Bong Joon Ho",
+      "poster": "https://images.photowall.com/products/51080/movie-poster-lawrence-of-arabia.jpg?h=699&q=85",
+      "rating": 4,
+      "id": 3
+
+    },
+    {
+      "title": "Scarface",
+      "caption": "The world is yours...",
+      "body": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+      "director": "Brian De Palma",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/9/51939-scarface-0-230-0-345-crop.jpg?k=80b60dc844",
+      "rating": 4,
+      "id": 4
+
+    },
+    {
+      "title": "Moonlight",
+      "caption": "This is the story of a lifetime.",
+      "body": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
+      "director": "Barry Jenkins",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+      "rating": 4,
+      "id": 5
+    },
+    {
+      "title": "Pulp Fiction",
+      "caption": "Just because you are a charecter doens't mean you have character.",
+      "body": "A burger-loving hit man, his philosophical partner, a drug-addled gangster’s moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "director": "Barry Jenkins",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY1200_CR97,0,630,1200_AL_.jpg",
+      "rating": 5,
+      "id": 6
+    }
+  ]
+}

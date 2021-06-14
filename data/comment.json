@@ -1,0 +1,13 @@
+{
+    "comments": [
+        {
+            "body":"hello world",
+             "movieId":1
+        }, 
+
+        {
+            "body":"nice movie",
+             "movieId":1
+        }
+    ]
+}
